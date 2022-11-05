@@ -33,4 +33,4 @@ We downloaded our data in csv files to transform the data. The steps we took are
 
 2. We were not able to make the correlation we were hoping to because of the incomplete data. Based off the dataset we did use, we decided to do a query on our final data table to see which state has the most fast-food restaurants. We found that California has the most fast-food restaurants. 
 
-(Copied from team repository, so all commits are not reflecting)
+(Copied from team repository, so all commits are not reflecting) Link to Team Project https://github.com/tongchenhe/project-2 
