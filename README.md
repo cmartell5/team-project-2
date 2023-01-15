@@ -1,4 +1,4 @@
-# Project-2
+# Team Project-2
 
 ## Team Members
 Tongchen He, Christy Martell, Richard Wang, Leyang Zang
